@@ -14,8 +14,9 @@
 2. [Information](#2-information)
 3. [War](#3-war)
 4. [War History](#4-warhistory)
-5. [Refresh](#5-refresh)
-6. [Top](6-top)
+5. [Top](#5-top)
+6. [Refresh](#6-refresh)
+
 ### 3. [StatsRoyale](#1-trends)
 1. [Cards](#1-trends)
 2. [Card info](#2-trends)
@@ -98,18 +99,19 @@ Object.war()
 ```sh
 Object.war_history(')
 ```
-#### `5. Refresh`
-- Nothing params
-
-```sh
-Object.refresh()
-```
-#### `6. Top`
+#### `5. Top`
 - Type: string - optional - filter - values: ('clans', 'clanwars', 'supercellcreators')
 - Location: string - optional - filter country - [values](#7-countrys)
 ```sh
 Object.top()
 ```
+#### `6. Refresh`
+- Nothing params
+
+```sh
+Object.refresh()
+```
+
 # `3. StatsRoyale`
 #### `1. Cards`
 - Nothin params
