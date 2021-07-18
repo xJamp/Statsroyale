@@ -13,7 +13,7 @@
 1. [Search](#1-search)
 2. [Information](#2-information)
 3. [War](#3-war)
-4. [War History](#4-warhistory)
+4. [War History](#4-war-history)
 5. [Top](#5-top)
 6. [Refresh](#6-refresh)
 
