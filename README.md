@@ -1,0 +1,2 @@
+# Statsroyale
+Scraping statsroyale page
