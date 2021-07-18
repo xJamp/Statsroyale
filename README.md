@@ -19,8 +19,8 @@
 
 ### 3. [StatsRoyale](#1-trends)
 1. [Cards](#1-cards)
-2. [Card info](#2-cardinfo)
-3. [decks_popular](#3-deckspopular)
+2. [Card info](#2-card)
+3. [decks_popular](#3-populardecks)
 
 
 - - -
